@@ -28,7 +28,7 @@ The program definitely supports the following links:
 * ht<span>tp://youtube.com/watch?v=12345678901
 
 ### Installing and creating an executable file:
-1. You need to download _ffmpeg_ and _yt-dlp_ (exe files) and put them in the src/main/java/com/music/loader/musicloader directory. Or you can choose another directory, but then you need to change paths in the [MainController.java](https://github.com/itdonut/YouTubeLoader/blob/master/src/main/java/com/music/loader/musicloader/conrollers/MainController.java) file in the download method.
+1. You need to download [_ffmpeg_](https://ffmpeg.org/download.html) and [_yt-dlp_](https://github.com/yt-dlp/yt-dlp/releases) (exe files) and put them in the src/main/java/com/music/loader/musicloader directory. Or you can choose another directory, but then you need to change paths in the [MainController.java](https://github.com/itdonut/YouTubeLoader/blob/master/src/main/java/com/music/loader/musicloader/conrollers/MainController.java) file in the download method.
 2. After this you can make _jar_ file and using [_Launch4j_](https://launch4j.sourceforge.net/) you can create exe file. [Here](https://medium.com/@vinayprabhu19/creating-executable-javafx-application-part-2-c98cfa65801e) you can find how to do it.
 3. Now you have executable file and can use the program. Enjoy!
 
